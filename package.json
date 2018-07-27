@@ -1,0 +1,22 @@
+{
+  "name": "syntax-shaman-theme",
+  "displayName": "syntax-shaman-theme",
+  "description": "@droxey's theme for conjuring code.",
+  "version": "0.0.1",
+  "publisher": "droxey",
+  "engines": {
+    "vscode": "^1.25.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "syntax-shaman-theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/syntax-shaman-theme-color-theme.json"
+      }
+    ]
+  }
+}
