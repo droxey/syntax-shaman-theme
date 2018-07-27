@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 ## This is the README for your extension "syntax-shaman-theme"
 You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
@@ -11,3 +12,7 @@ You can author your README using Visual Studio Code.  Here are some useful edito
 * [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
 **Enjoy!**
+=======
+# syntax-shaman-theme
+@droxey's personal VSCode theme.
+>>>>>>> 9d8aada945d9d86e12095cebbb6041fa4b421f9b
